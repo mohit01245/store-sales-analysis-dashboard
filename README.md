@@ -1,5 +1,3 @@
-# store-sales-analysis-dashboard
-
 # 📊 Store Sales Analysis Dashboard (Excel)
 
 ## 📌 Project Overview
